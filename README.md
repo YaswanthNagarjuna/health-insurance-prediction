@@ -1,1 +1,1 @@
-# health-insurance-prediction
+# health-insurance-predictions
